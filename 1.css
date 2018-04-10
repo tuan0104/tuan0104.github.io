@@ -1,1 +1,18 @@
 *{margin: 0; padding: 0;} 
+nav.navbar .navbar-default{
+	margin: 0;
+	padding: 0;
+	height: 80px;
+}
+nav.navbar .navbar-brand{
+	margin: -3px;
+	padding: 0;
+	width: 100%;
+}
+.collapse .navbar-nav{
+	font-family: 'segoe ui';
+	text-transform: uppercase;
+}
+@media (max-width: 576px){
+
+}
